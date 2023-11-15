@@ -26,18 +26,20 @@ const Banner = () => {
         transition={{ duration: 1 }}
       >
         <h2 className="text-neutral text-xl font-medium translate-y-[-90%] sm:translate-y-[-0%]">Hello, I'm</h2>
-        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Gilbert Hutapea</h1>
+        <h1 className="text-4xl font-semibold mb-0 translate-y-[-50%] sm:translate-y-[-0%]">Surajbhan Kumar</h1>
         <div className="my-4">
           <TypeAnimation
             className="text-2xl text-primary font-bold translate-y-[-80%] sm:translate-y-[-0%]"
             cursor={true}
             sequence={[
-              "A Mern-stack Developer",
-              2000,
-              "A Full-stack Developer",
-              2000,
-              "A Front-end Developer",
-              2000,
+              "A MERN-stack Developer",
+              2023,
+              "A Full-Stack Developer",
+              2023,
+              "A Front-End Developer",
+              2023,
+              "Programmer",
+              2023,
             ]}
             wrapper="div"
             repeat={Infinity}
@@ -47,15 +49,13 @@ const Banner = () => {
           As a MERN stack developer, I am committed to building high-quality web
           applications that meet the needs of my clients. With years of
           experience in full-stack web development, I specialize in using
-          React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
-          create scalable and robust web applications.
-          {/* I am a Front-end Developer. I am very passionate to my work and
-          dedicated to explore New Tools And Technologies. */}
+          React.js, MongoDB, Express.js, and Node.js. <br/>
+          Including other Technologies I learned C++, Java, Data Structure, and SQL etc
         </p>
 
         <div className="flex items-center translate-y-[-60%] sm:translate-y-[-0%]">
           <a
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+            href="https://drive.google.com/file/d/12z5gym3FvVWpQSfKHBtm3_TNxGgBgtbp/view"
             target="blank"
           >
             <button className="primary-button">

@@ -29,43 +29,43 @@ const Service = () => {
       title: "Front End Development",
       icon: <DiAtom />,
       description:
-        "As a Front-end developer, I would love to develope any front-end application using React and its libraries.",
+        "As a Front-end developer, I would love to develop any Front-End application using React and its libraries.",
     },
     {
       id: 2,
       title: "MERN Development",
       icon: <FiServer />,
       description:
-        "I am very familiar with NodeJS, Express JS, and MongoDB/Mongoose. So I can build full-stack application with MERN.",
+        "I am very familiar with React.Js, Node.JS, Express.JS, and MongoDB. So I can build full-stack application with MERN.",
     },
     {
       id: 3,
       title: "Web Design",
       icon: <BiPalette />,
       description:
-        "I also provide Fully Responsive Static Website Design with HTML, CSS, Bootstrap, Tailwind.",
+        "I also provide Fully Responsive Static Website Design with HTML, CSS, Javascript, TailwindCss.",
     },
-    // {
-    //   id: 4,
-    //   title: "Web Management",
-    //   icon: <FiServer />,
-    //   description:
-    //     "I will manage any kinds of website. Data Management, Component management, Service management and so on.",
-    // },
-    // {
-    //   id: 5,
-    //   title: "Backend Development",
-    //   icon: <FiServer />,
-    //   description:
-    //   "MVC Architectural Backend Development with Mongoose (Schema, Model etc) to manage the server easily.",
-    // },
-    // {
-    //   id: 6,
-    //   title: "Database Management",
-    //   icon: <FiServer />,
-    //   description:
-    //     "Connecting Web Database to the server. Fixing All kinds of issue with related to database with database advanced operators.",
-    // },
+    {
+      id: 4,
+      title: "Web Management",
+      icon: <FiServer />,
+      description:
+        "I will manage any kinds of website. Data Management, Component management, Service management and so on.",
+    },
+    {
+      id: 5,
+      title: "Backend Development",
+      icon: <FiServer />,
+      description:
+      "MVC Architectural Back-End Development with Node.Js and Express.Js  to manage the server easily.",
+    },
+    {
+      id: 6,
+      title: "Database Management",
+      icon: <FiServer />,
+      description:
+        "Connecting Web Database to the server. Fixing All kinds of issue with related to database with database advanced operators.",
+    },
   ];
   return (
     <div className="py-20 parent"

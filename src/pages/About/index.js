@@ -36,12 +36,11 @@ const About = () => {
             }}
           >
             <img
-              src="https://res.cloudinary.com/du541igfh/image/upload/v1683035791/Blog%20Portfolio%20Gilbert/Project/berthutapea.com/GilbertHutapea_qjy2gq.png"
-              alt="Gilbert Hutapea"
+              src="https://res.cloudinary.com/ddlqmk7y2/image/upload/v1700036135/my%20portfolio%20pic/shmjszsizfkzfn3i2k3j.jpg"
+              alt="Surajbhan Kumar"
               className="p-12 w-70 h-70 transform translate-y-[-12%]"
-              title="Gilbert Hutapea"
+              title="Surajbhan Kumar"
             />
-
           </motion.div>
           <motion.div
             className=""
@@ -52,18 +51,18 @@ const About = () => {
               transition: { duration: 1, delay: 1.25 },
             }}
           >
-            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Gilbert Hutapea</h1>
+            <h1 className="text-4xl font-semibold mb-4 text-center translate-y-[-380%] sm:translate-y-[-0%] sm:text-3xl sm:mb-2 md:text-left">Surajbhan Kumar</h1>
             <div className="my-8">
               <TypeAnimation
                 className="text-2xl text-primary font-bold text-center translate-y-[-500%] sm:translate-y-[-0%]  sm:text-2xl sm:mb-2 md:text-left"
                 cursor={true}
                 sequence={[
-                  "A Mern-stack Developer",
-                  2000,
-                  "A Full-stack Developer",
-                  2000,
-                  "A Front-end Developer",
-                  2000
+                  "A MERN-Stack Developer",
+                  2023,
+                  "A Full-Stack Developer",
+                  2023,
+                  "A Front-End Developer",
+                  2023
                 ]}
                 wrapper="div"
                 repeat={Infinity}
@@ -73,37 +72,31 @@ const About = () => {
               As a MERN stack developer, I am committed to building high-quality
               web applications that meet the needs of my clients. With years of
               experience in full-stack web development, I specialize in using
-              React.js, Next js, Typescript, MongoDB, Express.js, and Node.js to
-              create scalable and robust web applications.
-              {/* Dedicated Front-end developer. Capable to solve working problems.
-              Passionate about learning & development to reach the target. Eager
-              to tackle more complex problems and continue to find ways to
-              maximize user efficiency. */}
+              React.Js, MongoDB, Express.Js, and Node.js <br/>
+              Including other technologies I'he learned C++, Java, Data Structure and Algorithm and SQL etc.
             </p>
             <br />
             <p className="text-neutral font-medium text-center translate-y-[-150%] sm:translate-y-[-0%] sm:mb-2 md:text-left">
-              My passion for solving complex problems and creating innovative
+              My passion for solving problems and innovative
               solutions drives me to stay up-to-date with the latest
-              technologies and trends in the industry.
-              {/* My next mission is how to become a Mern stack Developer. I would
-              love to build some Giant Website which will shine myself. */}
+              technologies that are being used in the industry.
+            
             </p>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Name : </span>Gilbert Hutapea
+                <span className="mr-2 text-primary">Name : </span>Surajbhan Kumar
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Phone : </span>+62 823 6148 4992
+                <span className="mr-2 text-primary">Phone : </span>+91 9934242410
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Email : </span>
-                berthutapea@gmail.com
+                <span className="mr-2 text-primary">Email:</span>surajbhank654@gmail.com
               </h2>
               <h2 className="font-medium">
-                <span className="mr-2 text-primary">Address : </span>Karawang, Jawa Barat, Indonesia
+                <span className="mr-2 text-primary">Address : </span>Garhwa, Jharkhand
               </h2>
               <a
-                href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                href="https://drive.google.com/file/d/12z5gym3FvVWpQSfKHBtm3_TNxGgBgtbp/view"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">

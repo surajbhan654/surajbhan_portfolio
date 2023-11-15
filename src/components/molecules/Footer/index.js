@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="flex items-center justify-center mb-6">
           <a
             className="inline-block mx-2"
-            href="https://twitter.com/GilbertHutapeaa"
+            href="#"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -21,7 +21,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://linkedin.com/in/gilberthutapea"
+            href="https://www.linkedin.com/in/surajbhan-kumar-7ba450228/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -29,7 +29,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.github.com/berthutapea"
+            href="https://github.com/surajbhan654"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -37,7 +37,7 @@ const Footer = () => {
           </a>
           <a
             className="inline-block mx-2"
-            href="https://www.instagram.com/bethup97/"
+            href="https://www.instagram.com/bhan4646/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -47,7 +47,7 @@ const Footer = () => {
         <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.fiverr.com/berthutapea"
+            href="https://www.fiverr.com/join?source=top_nav"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -55,7 +55,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://www.upwork.com/freelancers/~0171c0d54d5dea86ec"
+            href="https://www.upwork.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="http://freelancer.com/u/berthutapea"
+            href="http://freelancer.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -71,7 +71,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://themeforest.net/user/berthutapea"
+            href="https://themeforest.net"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -79,7 +79,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://remotehub.com/gilbert.hutapea"
+            href="https://remotehub.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -87,7 +87,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://dribbble.com/berthutapea"
+            href="https://dribbble.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -95,7 +95,7 @@ const Footer = () => {
           </a>
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+            href="https://drive.google.com/file/d/12z5gym3FvVWpQSfKHBtm3_TNxGgBgtbp/view"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -109,11 +109,11 @@ const Footer = () => {
           <p>
             Developed by{" "}
             <a
-              href="https://linkedin.com/in/gilberthutapea"
+              href="https://www.linkedin.com/in/surajbhan-kumar-7ba450228/"
               className="text-primary hover:underline"
               target="blank"
             >
-              Gilbert Hutapea
+              Surajbhan Kumar
             </a>
           </p>
         </div>

@@ -1,5 +1,7 @@
 import React from "react";
 import Lottie from "react-lottie";
+
+import { TbBrandCpp } from "react-icons/tb";
 import {
   FaHtml5,
   FaCss3Alt,
@@ -7,6 +9,7 @@ import {
   FaReact,
   FaBootstrap,
   FaGithub,
+  FaJava,
 } from "react-icons/fa";
 import {
   SiJavascript,
@@ -16,17 +19,22 @@ import {
   SiAdobephotoshop,
   SiFirebase,
 } from "react-icons/si";
+
+
+
 import man from "../../../assets/man.json";
 
 const MySkill = () => {
   const languages = [
     { title: "HTML", icon: <FaHtml5 className="text-orange-600" /> },
     { title: "CSS", icon: <FaCss3Alt className="text-blue-400" /> },
-    {
-      title: "JavaScript",
-      icon: <SiJavascript className="text-yellow-500 rounded" />,
-    },
+    { title: "JavaScript", icon: <SiJavascript className="text-yellow-500 rounded" /> },
     { title: "NodeJS", icon: <FaNodeJs className="text-green-600" /> },
+    { title: "Java", icon: <FaJava className="text-green-600" /> },
+    { title: "C++", icon: <TbBrandCpp className="text-green-600" /> },
+    { title : "SQL",}
+
+    
   ];
   const frameworks = [
     { title: "React", icon: <FaReact className="text-cyan-400" /> },

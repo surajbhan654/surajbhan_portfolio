@@ -64,7 +64,7 @@ export default function Navbar() {
       <div className="w-full flex items-center justify-between px-3 md:px-24 py-3">
         <div>
           <Link to="/">
-            <h1 className="text-2xl text-primary font-lobster">Gilbert Hutapea</h1>
+            <h1 className="text-2xl text-primary font-lobster">Surajbhan Kumar</h1>
           </Link>
         </div>
         <div>
@@ -83,7 +83,7 @@ export default function Navbar() {
 
             <a
               className="inline-block ml-4"
-              href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+              href="https://drive.google.com/file/d/12z5gym3FvVWpQSfKHBtm3_TNxGgBgtbp/view"
               target="blank"
             >
               <PrimaryBtn>
@@ -131,7 +131,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://drive.google.com/file/d/19rnbukAhf9oPhadMhsvI3xnWF6FIYeMT/view?usp=share_link"
+                    href="https://drive.google.com/file/d/12z5gym3FvVWpQSfKHBtm3_TNxGgBgtbp/view"
                     target="blank"
                   >
                     <button className="primary-button w-full text-white">
@@ -145,7 +145,7 @@ export default function Navbar() {
               </ul>
               <div className="text-center">
                 <p className="text-neutral">
-                  &copy; Copyright 2023, Gilbert Hutapea. All Rights Reserved
+                  &copy; Copyright 2023, Surajbhan Kumar. All Rights Reserved
                 </p>
               </div>
             </Drawer>
